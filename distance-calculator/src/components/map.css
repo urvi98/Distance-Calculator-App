@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  #root {
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .map-container {
+    height: 80vh;
+    width: 80%;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .total-distance {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .marker-icon {
+    width: 25px;
+    height: 30px;
+  }
+  
